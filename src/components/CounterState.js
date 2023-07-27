@@ -15,4 +15,4 @@ function CounterState() {
   );
 }
 
-export default CounterState;
+export default CounterState();
